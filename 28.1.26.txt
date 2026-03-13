@@ -1,0 +1,10 @@
+Function Calling:
+
+
+API - Url
+
+    request
+
+    response
+
+FastAPI
